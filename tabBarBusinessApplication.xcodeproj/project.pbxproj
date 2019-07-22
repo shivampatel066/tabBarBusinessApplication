@@ -14,6 +14,22 @@
 		4085C4CB22BCE06200F2C81B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4085C4C922BCE06200F2C81B /* LaunchScreen.storyboard */; };
 		4085C4D622BCE06200F2C81B /* tabBarBusinessApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4085C4D522BCE06200F2C81B /* tabBarBusinessApplicationTests.swift */; };
 		4085C4E122BCE06200F2C81B /* tabBarBusinessApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4085C4E022BCE06200F2C81B /* tabBarBusinessApplicationUITests.swift */; };
+		4085C4F022BCEFF200F2C81B /* ServicesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4085C4EF22BCEFF200F2C81B /* ServicesTableViewController.swift */; };
+		4085C4F222BCF00F00F2C81B /* ServicesTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4085C4F122BCF00F00F2C81B /* ServicesTableViewCell.swift */; };
+		409C0DDC22E5BA9000AE88BA /* ContactUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409C0DDB22E5BA9000AE88BA /* ContactUsViewController.swift */; };
+		409C0DDF22E5BB5100AE88BA /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 409C0DDE22E5BB5000AE88BA /* MapKit.framework */; };
+		409C0DE122E5C19900AE88BA /* EmailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409C0DE022E5C19900AE88BA /* EmailViewController.swift */; };
+		409C0DE322E5C44A00AE88BA /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 409C0DE222E5C44A00AE88BA /* MessageUI.framework */; };
+		409C0DE522E5CD2400AE88BA /* SocialLinksTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409C0DE422E5CD2400AE88BA /* SocialLinksTableViewController.swift */; };
+		409C0DE822E5CF0200AE88BA /* SocialLinksTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409C0DE722E5CF0200AE88BA /* SocialLinksTableViewCell.swift */; };
+		409C0DEA22E5CF9300AE88BA /* socialList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 409C0DE922E5CF9300AE88BA /* socialList.plist */; };
+		409C0DEC22E5D4DC00AE88BA /* SocialLinksDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 409C0DEB22E5D4DC00AE88BA /* SocialLinksDetailViewController.swift */; };
+		409C0DEE22E5D6FB00AE88BA /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 409C0DED22E5D6FB00AE88BA /* WebKit.framework */; };
+		40A6A7CF22E1904100CFB945 /* PortfolioCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6A7CE22E1904100CFB945 /* PortfolioCollectionViewController.swift */; };
+		40A6A7D122E1905500CFB945 /* PortfolioCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40A6A7D022E1905500CFB945 /* PortfolioCollectionViewCell.swift */; };
+		40ACF45F22BCF15D0083EDFF /* serviceList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 40ACF45E22BCF15D0083EDFF /* serviceList.plist */; };
+		40ACF46122BCF8B40083EDFF /* ServicesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ACF46022BCF8B40083EDFF /* ServicesViewController.swift */; };
+		40ACF46422BCFF9B0083EDFF /* AboutUsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40ACF46322BCFF9B0083EDFF /* AboutUsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		4085C4DC22BCE06200F2C81B /* tabBarBusinessApplicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tabBarBusinessApplicationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4085C4E022BCE06200F2C81B /* tabBarBusinessApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tabBarBusinessApplicationUITests.swift; sourceTree = "<group>"; };
 		4085C4E222BCE06200F2C81B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4085C4EF22BCEFF200F2C81B /* ServicesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesTableViewController.swift; sourceTree = "<group>"; };
+		4085C4F122BCF00F00F2C81B /* ServicesTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesTableViewCell.swift; sourceTree = "<group>"; };
+		409C0DDB22E5BA9000AE88BA /* ContactUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactUsViewController.swift; sourceTree = "<group>"; };
+		409C0DDE22E5BB5000AE88BA /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		409C0DE022E5C19900AE88BA /* EmailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailViewController.swift; sourceTree = "<group>"; };
+		409C0DE222E5C44A00AE88BA /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		409C0DE422E5CD2400AE88BA /* SocialLinksTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialLinksTableViewController.swift; sourceTree = "<group>"; };
+		409C0DE722E5CF0200AE88BA /* SocialLinksTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialLinksTableViewCell.swift; sourceTree = "<group>"; };
+		409C0DE922E5CF9300AE88BA /* socialList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = socialList.plist; sourceTree = "<group>"; };
+		409C0DEB22E5D4DC00AE88BA /* SocialLinksDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SocialLinksDetailViewController.swift; sourceTree = "<group>"; };
+		409C0DED22E5D6FB00AE88BA /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
+		40A6A7CE22E1904100CFB945 /* PortfolioCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioCollectionViewController.swift; sourceTree = "<group>"; };
+		40A6A7D022E1905500CFB945 /* PortfolioCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioCollectionViewCell.swift; sourceTree = "<group>"; };
+		40ACF45E22BCF15D0083EDFF /* serviceList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = serviceList.plist; sourceTree = "<group>"; };
+		40ACF46022BCF8B40083EDFF /* ServicesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ServicesViewController.swift; sourceTree = "<group>"; };
+		40ACF46322BCFF9B0083EDFF /* AboutUsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +86,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				409C0DEE22E5D6FB00AE88BA /* WebKit.framework in Frameworks */,
+				409C0DE322E5C44A00AE88BA /* MessageUI.framework in Frameworks */,
+				409C0DDF22E5BB5100AE88BA /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +116,7 @@
 				4085C4D422BCE06200F2C81B /* tabBarBusinessApplicationTests */,
 				4085C4DF22BCE06200F2C81B /* tabBarBusinessApplicationUITests */,
 				4085C4BE22BCE05F00F2C81B /* Products */,
+				409C0DDD22E5BB5000AE88BA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +133,13 @@
 		4085C4BF22BCE05F00F2C81B /* tabBarBusinessApplication */ = {
 			isa = PBXGroup;
 			children = (
+				409C0DE622E5CED500AE88BA /* Social Links */,
+				409C0DDA22E5BA7300AE88BA /* Contact Us */,
 				4085C4C022BCE05F00F2C81B /* AppDelegate.swift */,
 				4085C4C222BCE05F00F2C81B /* ViewController.swift */,
+				40ACF46222BCFF800083EDFF /* About Us */,
+				4085C4EE22BCEFC100F2C81B /* Services */,
+				40A6A7CD22E1901400CFB945 /* Portfolio */,
 				4085C4C422BCE05F00F2C81B /* Main.storyboard */,
 				4085C4C722BCE06200F2C81B /* Assets.xcassets */,
 				4085C4C922BCE06200F2C81B /* LaunchScreen.storyboard */,
@@ -123,6 +164,64 @@
 				4085C4E222BCE06200F2C81B /* Info.plist */,
 			);
 			path = tabBarBusinessApplicationUITests;
+			sourceTree = "<group>";
+		};
+		4085C4EE22BCEFC100F2C81B /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				4085C4EF22BCEFF200F2C81B /* ServicesTableViewController.swift */,
+				4085C4F122BCF00F00F2C81B /* ServicesTableViewCell.swift */,
+				40ACF46022BCF8B40083EDFF /* ServicesViewController.swift */,
+				40ACF45E22BCF15D0083EDFF /* serviceList.plist */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		409C0DDA22E5BA7300AE88BA /* Contact Us */ = {
+			isa = PBXGroup;
+			children = (
+				409C0DDB22E5BA9000AE88BA /* ContactUsViewController.swift */,
+				409C0DE022E5C19900AE88BA /* EmailViewController.swift */,
+			);
+			path = "Contact Us";
+			sourceTree = "<group>";
+		};
+		409C0DDD22E5BB5000AE88BA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				409C0DED22E5D6FB00AE88BA /* WebKit.framework */,
+				409C0DE222E5C44A00AE88BA /* MessageUI.framework */,
+				409C0DDE22E5BB5000AE88BA /* MapKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		409C0DE622E5CED500AE88BA /* Social Links */ = {
+			isa = PBXGroup;
+			children = (
+				409C0DE422E5CD2400AE88BA /* SocialLinksTableViewController.swift */,
+				409C0DE722E5CF0200AE88BA /* SocialLinksTableViewCell.swift */,
+				409C0DEB22E5D4DC00AE88BA /* SocialLinksDetailViewController.swift */,
+				409C0DE922E5CF9300AE88BA /* socialList.plist */,
+			);
+			path = "Social Links";
+			sourceTree = "<group>";
+		};
+		40A6A7CD22E1901400CFB945 /* Portfolio */ = {
+			isa = PBXGroup;
+			children = (
+				40A6A7CE22E1904100CFB945 /* PortfolioCollectionViewController.swift */,
+				40A6A7D022E1905500CFB945 /* PortfolioCollectionViewCell.swift */,
+			);
+			path = Portfolio;
+			sourceTree = "<group>";
+		};
+		40ACF46222BCFF800083EDFF /* About Us */ = {
+			isa = PBXGroup;
+			children = (
+				40ACF46322BCFF9B0083EDFF /* AboutUsViewController.swift */,
+			);
+			path = "About Us";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,8 +328,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				40ACF45F22BCF15D0083EDFF /* serviceList.plist in Resources */,
 				4085C4CB22BCE06200F2C81B /* LaunchScreen.storyboard in Resources */,
 				4085C4C822BCE06200F2C81B /* Assets.xcassets in Resources */,
+				409C0DEA22E5CF9300AE88BA /* socialList.plist in Resources */,
 				4085C4C622BCE05F00F2C81B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -256,8 +357,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				409C0DE522E5CD2400AE88BA /* SocialLinksTableViewController.swift in Sources */,
 				4085C4C322BCE05F00F2C81B /* ViewController.swift in Sources */,
+				4085C4F222BCF00F00F2C81B /* ServicesTableViewCell.swift in Sources */,
+				4085C4F022BCEFF200F2C81B /* ServicesTableViewController.swift in Sources */,
+				409C0DE822E5CF0200AE88BA /* SocialLinksTableViewCell.swift in Sources */,
+				40A6A7D122E1905500CFB945 /* PortfolioCollectionViewCell.swift in Sources */,
+				409C0DEC22E5D4DC00AE88BA /* SocialLinksDetailViewController.swift in Sources */,
+				40A6A7CF22E1904100CFB945 /* PortfolioCollectionViewController.swift in Sources */,
+				40ACF46122BCF8B40083EDFF /* ServicesViewController.swift in Sources */,
+				40ACF46422BCFF9B0083EDFF /* AboutUsViewController.swift in Sources */,
 				4085C4C122BCE05F00F2C81B /* AppDelegate.swift in Sources */,
+				409C0DDC22E5BA9000AE88BA /* ContactUsViewController.swift in Sources */,
+				409C0DE122E5C19900AE88BA /* EmailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
